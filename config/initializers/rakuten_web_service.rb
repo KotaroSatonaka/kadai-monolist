@@ -1,3 +1,3 @@
 RakutenWebService. configuration do |c|
-  c.application_id = ENV['102282139902278829']
+  c.application_id = ENV['RAKUTEN_APPLICATION_ID']
 end
